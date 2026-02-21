@@ -1,0 +1,240 @@
+{
+  "Суббота, 21 февраля": {
+    "night": {
+      "temperature": "-7°",
+      "feels_like": "-10°",
+      "precipitation": "3%",
+      "pressure": "760",
+      "wind_speed_m_s": "1.5",
+      "humidity": "84%"
+    },
+    "morning": {
+      "temperature": "-6°",
+      "feels_like": "-9°",
+      "precipitation": "2%",
+      "pressure": "760",
+      "wind_speed_m_s": "1.5",
+      "humidity": "73%"
+    },
+    "day": {
+      "temperature": "-2°",
+      "feels_like": "-5°",
+      "precipitation": "12%",
+      "pressure": "758",
+      "wind_speed_m_s": "2.2",
+      "humidity": "62%"
+    },
+    "evening": {
+      "temperature": "-2°",
+      "feels_like": "-5°",
+      "precipitation": "12%",
+      "pressure": "757",
+      "wind_speed_m_s": "2.1",
+      "humidity": "63%"
+    }
+  },
+  "Воскресенье, 22 февраля": {
+    "night": {
+      "temperature": "-5°",
+      "feels_like": "-8°",
+      "precipitation": "3%",
+      "pressure": "753",
+      "wind_speed_m_s": "1.7",
+      "humidity": "73%"
+    },
+    "morning": {
+      "temperature": "-4°",
+      "feels_like": "-8°",
+      "precipitation": "97%",
+      "pressure": "748",
+      "wind_speed_m_s": "2.0",
+      "humidity": "86%"
+    },
+    "day": {
+      "temperature": "-3°",
+      "feels_like": "-6°",
+      "precipitation": "98%",
+      "pressure": "746",
+      "wind_speed_m_s": "2.5",
+      "humidity": "83%"
+    },
+    "evening": {
+      "temperature": "-4°",
+      "feels_like": "-9°",
+      "precipitation": "72%",
+      "pressure": "749",
+      "wind_speed_m_s": "3.8",
+      "humidity": "73%"
+    }
+  },
+  "Понедельник, 23 февраля": {
+    "night": {
+      "temperature": "-7°",
+      "feels_like": "-12°",
+      "precipitation": "2%",
+      "pressure": "753",
+      "wind_speed_m_s": "2.9",
+      "humidity": "77%"
+    },
+    "morning": {
+      "temperature": "-9°",
+      "feels_like": "-13°",
+      "precipitation": "2%",
+      "pressure": "755",
+      "wind_speed_m_s": "2.4",
+      "humidity": "81%"
+    },
+    "day": {
+      "temperature": "-7°",
+      "feels_like": "-9°",
+      "precipitation": "2%",
+      "pressure": "756",
+      "wind_speed_m_s": "1.5",
+      "humidity": "76%"
+    },
+    "evening": {
+      "temperature": "-10°",
+      "feels_like": "-10°",
+      "precipitation": "2%",
+      "pressure": "757",
+      "wind_speed_m_s": "0.6",
+      "humidity": "86%"
+    }
+  },
+  "Вторник, 24 февраля": {
+    "night": {
+      "temperature": "-10°",
+      "feels_like": "-10°",
+      "precipitation": "2%",
+      "pressure": "759",
+      "wind_speed_m_s": "0.7",
+      "humidity": "89%"
+    },
+    "morning": {
+      "temperature": "-10°",
+      "feels_like": "-10°",
+      "precipitation": "2%",
+      "pressure": "761",
+      "wind_speed_m_s": "0.9",
+      "humidity": "85%"
+    },
+    "day": {
+      "temperature": "-7°",
+      "feels_like": "-7°",
+      "precipitation": "2%",
+      "pressure": "763",
+      "wind_speed_m_s": "1.0",
+      "humidity": "77%"
+    },
+    "evening": {
+      "temperature": "-9°",
+      "feels_like": "-9°",
+      "precipitation": "3%",
+      "pressure": "765",
+      "wind_speed_m_s": "0.8",
+      "humidity": "81%"
+    }
+  },
+  "Среда, 25 февраля": {
+    "night": {
+      "temperature": "-10°",
+      "feels_like": "-10°",
+      "precipitation": "6%",
+      "pressure": "767",
+      "wind_speed_m_s": "0.7",
+      "humidity": "85%"
+    },
+    "morning": {
+      "temperature": "-11°",
+      "feels_like": "-11°",
+      "precipitation": "6%",
+      "pressure": "768",
+      "wind_speed_m_s": "1.0",
+      "humidity": "86%"
+    },
+    "day": {
+      "temperature": "-8°",
+      "feels_like": "-8°",
+      "precipitation": "2%",
+      "pressure": "770",
+      "wind_speed_m_s": "1.0",
+      "humidity": "78%"
+    },
+    "evening": {
+      "temperature": "-9°",
+      "feels_like": "-9°",
+      "precipitation": "2%",
+      "pressure": "771",
+      "wind_speed_m_s": "1.1",
+      "humidity": "84%"
+    }
+  },
+  "Четверг, 26 февраля": {
+    "night": {
+      "temperature": "-11°",
+      "feels_like": "-11°",
+      "precipitation": "2%",
+      "pressure": "773",
+      "wind_speed_m_s": "1.2",
+      "humidity": "83%"
+    },
+    "morning": {
+      "temperature": "-11°",
+      "feels_like": "-15°",
+      "precipitation": "13%",
+      "pressure": "773",
+      "wind_speed_m_s": "1.6",
+      "humidity": "83%"
+    },
+    "day": {
+      "temperature": "-5°",
+      "feels_like": "-8°",
+      "precipitation": "35%",
+      "pressure": "772",
+      "wind_speed_m_s": "1.6",
+      "humidity": "75%"
+    },
+    "evening": {
+      "temperature": "-4°",
+      "feels_like": "-7°",
+      "precipitation": "50%",
+      "pressure": "769",
+      "wind_speed_m_s": "1.9",
+      "humidity": "77%"
+    }
+  },
+  "Пятница, 27 февраля": {
+    "night": {
+      "temperature": "-4°",
+      "feels_like": "-6°",
+      "precipitation": "49%",
+      "pressure": "766",
+      "wind_speed_m_s": "1.6",
+      "humidity": "79%"
+    },
+    "morning": {
+      "temperature": "-3°",
+      "feels_like": "-5°",
+      "precipitation": "57%",
+      "pressure": "762",
+      "wind_speed_m_s": "1.5",
+      "humidity": "72%"
+    },
+    "day": {
+      "temperature": "0°",
+      "feels_like": "-3°",
+      "precipitation": "63%",
+      "pressure": "759",
+      "wind_speed_m_s": "1.7",
+      "humidity": "71%"
+    },
+    "evening": {
+      "temperature": "-1°",
+      "feels_like": "-3°",
+      "precipitation": "71%",
+      "pressure": "756",
+      "wind_speed_m_s": "2.1",
+      "humidity": "73%"
+    }
+  }
+}
